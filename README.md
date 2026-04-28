@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Ciência da Computação] período Noite [Nome do Curso] na [Nome da Instituição unicid]. Trabalho na area de técnologia e gosto de resolver problemas através da tecnologia e possuo foco em [Segurança eletronica Análise de Dados para segurança eletronica].
+Atualmente cursando o [Ciência da Computação] período Noite [Ciência da Computação] na [Unicid]. Trabalho na area de técnologia e gosto de resolver problemas através da tecnologia e possuo foco em [Segurança eletronica Análise de Dados para segurança eletronica].
  
 * **Habilidades Técnicas:** [### 🏢 Experiência Profissional
 
