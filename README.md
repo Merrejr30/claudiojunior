@@ -1,5 +1,5 @@
 # [Claudio Limoeiro de Barros Junior]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+> Estudante de [Ciência da Computação]
  
 ---
  
