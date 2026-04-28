@@ -1,14 +1,10 @@
 # [Claudio Limoeiro de Barros Junior]
 > Estudante de [Ciência da Computação]
  
----
- 
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/claudio-junior-8333b3201)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cjrassistencia@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/CLAUDIOLIMOEIRODEBAR/Desktop/CV%20Claudio%20Junior.pdf)
- 
----
  
 ### 👨‍💻 Sobre
 Atualmente cursando o [Ciência da Computação] período Noite [Ciência da Computação] na [Unicid]. Trabalho na area de técnologia e gosto de resolver problemas através da tecnologia e possuo foco em [Segurança eletronica Análise de Dados para segurança eletronica].
@@ -51,8 +47,6 @@ Atualmente cursando o [Ciência da Computação] período Noite [Ciência da Com
   *Prestador de Serviços*  
   Atuação em projetos técnicos diversos, com foco em instalação, manutenção e suporte.
 
----
-
 ## 🧠 Competências Técnicas
 
 - Sistemas de CFTV (Intelbras, Hikvision, ONVIF)
@@ -62,8 +56,6 @@ Atualmente cursando o [Ciência da Computação] período Noite [Ciência da Com
 - Redes (IP, DHCP, cabeamento estruturado)
 - Diagnóstico e manutenção de sistemas eletrônicos
 - Monitoramento e integração com softwares (ex: Intelbras Defense)
-
----
 
 ## 📚 Cursos e Formação Complementar
 
@@ -82,8 +74,6 @@ Atualmente cursando o [Ciência da Computação] período Noite [Ciência da Com
 - **ATTO**  
   Curso: Instalação e Manutenção de Sistemas PGDM e Portas Automáticas  
 
----
-
 ## ⚙️ Conhecimentos Adicionais
 
 - Sistemas de automação residencial (casas inteligentes)
@@ -94,8 +84,6 @@ Atualmente cursando o [Ciência da Computação] período Noite [Ciência da Com
 - Organização de infraestrutura técnica e administrativa
 - Gestão de frota e logística operacional
 
----
-
 ## 🎯 Perfil Profissional
 
 Profissional dedicado, organizado e detalhista, com facilidade para trabalho em equipe e rápida adaptação a novos desafios.
@@ -103,9 +91,7 @@ Profissional dedicado, organizado e detalhista, com facilidade para trabalho em 
 Possui forte capacidade de resolução de problemas técnicos e experiência prática em campo, aliando conhecimento técnico com postura profissional e foco em resultados. Atualmente Analista de sistema de dados e segurança pelo Santander].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica] onde desenvolvi [resultado principal].
- 
----
- 
+  
 ### 🛠 Minhas Ferramentas Favoritas
  
 #### 💻 Linguagens e Tecnologias
@@ -116,26 +102,3 @@ Possui forte capacidade de resolução de problemas técnicos e experiência pr�
 ![Experiência em ambientes corporativos (bancos, empresas, comércios e residências)
 - Organização de infraestrutura técnica e administrativa
 - Gestão de frota e logística operacional)
- 
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-#### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- 
----
- 
-### 📂 Portfólio de Projetos
- 
-#### 🗃️ Projetos Fisicos de segurança 
-
-| **Projeto de planta baixa para segurança** | |
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-
-
